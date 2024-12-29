@@ -1,6 +1,3 @@
-
-<img src="github_banner.png" alt="GitHub Banner" width="100%" />
-
 <h2 align="left">Hey! My name is Afsal, and I'm a Web Developer from India</h2>
 
 ###
