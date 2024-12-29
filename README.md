@@ -1,3 +1,6 @@
+
+<img src="github_banner.png" alt="GitHub Banner" width="100%" />
+
 <h2 align="left">Hey! My name is Afsal, and I'm a Web Developer from India</h2>
 
 ###
@@ -10,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNoNmJraTNuNjlobTNzMHRicXo2b3gybGVzZmJ2amM0cmZ2aWN3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif"  />
+<img align="right" height="150"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNoNmJraTNuNjlobTNzMHRicXo2b3gybGVzZmJ2amM0cmZ2aWN3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif"  />
 
 ###
 
